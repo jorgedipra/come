@@ -1,0 +1,52 @@
+  <link href="css/rota.css" rel="stylesheet"  />
+<script src="js/jquery-1-4-2.min.js"></script> 
+  <script src="js/cloud-carousel.1.0.5.js"></script> 
+  <script type="text/javascript">
+   document.documentElement.className = 'js';
+  </script>
+  <script>
+  $(document).ready(function(){
+      $("#carousel1").CloudCarousel(    
+      {     
+        reflHeight: 40,
+        reflGap:2,
+        titleBox: $('#da-vinci-title'),
+        altBox: $('#da-vinci-alt'),
+        buttonLeft: $('#slider-left-but'),
+        buttonRight: $('#slider-right-but'),
+        yRadius:30,
+        xPos: 480,
+        yPos: 32,
+        speed:0.15,  
+              FPS:30,
+              autoRotate: 'left',
+              autoRotateDelay: 3000,
+              speed:0.2,                    
+      }
+    );
+  }); 
+  </script>
+
+   <div id="templatemo_slider">  
+    <div id = "carousel1" style="">            
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/01.jpg" alt="CSS Templates 1" title="1" /></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/02.jpg" alt="CSS Templates 2" title="2" /></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/03.jpg" alt="CSS Templates 3" title="3" /></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/04.jpg" alt="CSS Templates 4" title="4" /></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/05.jpg" alt="1" title="1" /></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/06.jpg" alt="2" title="2" /></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/07.jpg" alt="3" title="3" /></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/08.jpg" alt="4" title="4" /></a>
+    </div>
+    
+    <center>
+    <input id="slider-left-but" type="button" value="<" />
+    <input id="slider-right-but" type="button" value=">" />
+    </center>
+</div>
+<style type="text/css">
+  #carousel1 img{
+  width: 240px;
+  height: 180px;
+  }
+</style>

@@ -1,0 +1,28 @@
+<manifest alg="2" build="2" opt="false">
+  <folder name="css">
+    <file name="site_global.css" crc="3835980900"/>
+    <file name="index.css" crc="496356583" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="1.1">
+      <file name="jquery-1.7.min.js" crc="526788486" ref="index"/>
+      <file name="museutils.js" crc="410024474" ref="index"/>
+      <file name="pie.js" crc="4067523484" ref="index"/>
+      <file name="pie.htc" crc="119515598" ref="index"/>
+      <file name="webpro.js" crc="4241983492" ref="index"/>
+      <file name="musewpslideshow.js" crc="4170181272" ref="index"/>
+      <file name="jquery.museoverlay.js" crc="535999373" ref="index"/>
+      <file name="touchswipe.js" crc="4156838003" ref="index"/>
+      <file name="jquery.watch.js" crc="3882405427" ref="index"/>
+    </folder>
+  </folder>
+  <folder name="images">
+    <file name="captura.png" crc="453319417" ref="index"/>
+    <file name="captura723x507.jpg" crc="4070556469" ref="index"/>
+    <file name="captura153x107.jpg" crc="296521103" ref="index"/>
+    <file name="fds.png" crc="389475410" ref="index"/>
+    <file name="captura147x103.jpg" crc="247889614" ref="index"/>
+    <file name="aaa.png" crc="255752919" ref="index"/>
+  </folder>
+  <file name="index.html" crc="424009531" mt="1370831664319"/>
+</manifest>
