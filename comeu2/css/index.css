@@ -589,8 +589,8 @@
 }
 #contacB a{
 	 background: #00b7ea; 
-background:-webkit-linear-gradient(top, #fa0000 0%,#b60000 100%); 
-background:linear-gradient(top, #fa0000 0%,#b60000 100%); 
+	background:-webkit-linear-gradient(top, #fa0000 0%,#b60000 100%); 
+	background:linear-gradient(top, #fa0000 0%,#b60000 100%); 
     display: block; 
     height: 80px; 
     width: 95px; 
@@ -604,20 +604,23 @@ background:linear-gradient(top, #fa0000 0%,#b60000 100%);
 
     /*CSS3*/ 
    -webkit-border-top-right-radius: 35px;
--webkit-border-bottom-right-radius: 100px;
--webkit-border-bottom-left-radius: 100px;
--moz-border-radius-topright: 35px;
--moz-border-radius-bottomright: 100px;
--moz-border-radius-bottomleft: 100px;
-border-top-right-radius: 35px;
-border-bottom-right-radius: 100px;
-border-bottom-left-radius: 100px;
+	-webkit-border-bottom-right-radius: 100px;
+	-webkit-border-bottom-left-radius: 100px;
+	-moz-border-radius-topright: 35px;
+	-moz-border-radius-bottomright: 100px;
+	-moz-border-radius-bottomleft: 100px;
+	border-top-right-radius: 35px;
+	border-bottom-right-radius: 100px;
+	border-bottom-left-radius: 100px;
 
     box-shadow: 2px 2px 8px rgba(0,0,0,0.5); 
     -webkit-box-shadow: 2px 2px 8px rgba(0,0,0,0.5); 
     position: absolute;
     top: 80px;
-    left: 1019px;
+    right: auto;
+    left: auto;
+    margin-left: 870px;
+
 }
 #contacB a:hover{
 	color: #000;

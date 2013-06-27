@@ -1,10 +1,13 @@
  #carousel1{
-        width:960px;
-         height:280px;
-         background:none;
-         overflow:scroll; 
-         margin-top: 20px;
-    }
+	background:none;	
+	position: absolute;
+	height    :280px;
+	margin    :0 -35px;
+	left: 0;
+	overflow  :scroll; 
+	width     :950px;
+ }
+
 #slider-right-but,
 #slider-left-but{
     width: 30px;

@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html>
- <head>
-  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
-  <meta name="description" content="Glow Sky es el nuevo canal por internet en América Latina"/>
-  <meta name="keywords" content="Glow Sky"/>
-  <meta name="generator" content="3.2.2.183"/>
-  <title>HOME</title>
+<?php
+ include_once ('recursos/info.php');//se llama la informacion de la pagina
+?>
   <link rel="stylesheet"  href="css/site_global.css?3835980900"/>
   <link rel="stylesheet"  href="css/index.css?496356583" id="pagesheet"/>
   <link href="css/style.css" rel="stylesheet"  />
@@ -28,14 +23,14 @@
      <div id="templatemo_menu">
         <ul>
             <li><a href="#" class="current">Online</a></li>
-            <li><a href="#">PROGRAMACION</a></li>
-            <li><a href="#">QUIENES SOMOS</a></li>
-            <li><a href="#">NOTICIAS</a></li>
-             <li><a href="#">PROGRAMAS</a></li>
-            <li><a href="#">PAUTA CON GLOW</a></li>           
+            <li><a href="PROGRAMACION.php">PROGRAMACION</a></li>
+           <li><a href="QUIENESSOMOS.php">QUIENES SOMOS</a></li>
+            <li><a href="NOTICIAS.php">NOTICIAS</a></li>
+             <li><a href="PROGRAMAS.php">PROGRAMAS</a></li>
+            <li><a href="PAUTA.php">PAUTA CON GLOW</a></li>         
         </ul> 
     </div> 
-    <article id="contacB"><a href="#">Contactanos</a></article>
+    <article id="contacB"><a href="Contactanos.php">Contactanos</a></article>
     
     <div id="slider_wrapper">
         <div id="slider">
@@ -53,10 +48,10 @@
         <div class="col_w900">
           <article id="socialc">            
             <ul class="nav-tt">
-            <li><a class="twitter" href="#" target="_blank"><span>Twitter</span></a></li>
+            <li><a class="twitter" href="https://twitter.com/Come2U_TV" target="_blank"><span>Twitter</span></a></li>
             <li><a class="gplus" href="#" target="_blank"><span>Google Plus</span></a></li>
-            <li><a class="facebook" href="#" target="_blank"><span>Facebook</span></a></li>
-            <li><a class="youtube" href="#" target="_blank"><span>Youtube</span></a></li>
+            <li><a class="facebook" href="https://www.facebook.com/pages/Come-2U/286700421438690" target="_blank"><span>Facebook</span></a></li>
+            <li><a class="youtube" href="http://www.youtube.com/user/CanalGlowSky" target="_blank"><span>Youtube</span></a></li>
             </ul>
           </article>
 <section id="conte">
