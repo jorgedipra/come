@@ -30,7 +30,7 @@
     
     <div id="slider_wrapper">
         <div id="slider">
-        baner
+        <img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/574845_309944349114297_1157643734_n.jpg">
         </div>
     </div>
         

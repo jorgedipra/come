@@ -23,14 +23,14 @@
             <li><a href="QUIENESSOMOS.php">QUIENES SOMOS</a></li>
             <li><a href="NOTICIAS.php">NOTICIAS</a></li>
              <li><a href="PROGRAMAS.php" class="current">PROGRAMAS</a></li>
-            <li><a href="#">PAUTA CON GLOW</a></li>           
+            <li><a href="PAUTA.php">PAUTA CON GLOW</a></li>           
         </ul> 
     </div> 
     <article id="contacB"><a href="Contactanos.php">Contactanos</a></article>
     
     <div id="slider_wrapper">
         <div id="slider">
-        baner
+        <img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/550054_343829599059105_2029149201_n.jpg">
         </div>
     </div>
         

@@ -28,9 +28,9 @@
     </div> 
     <article id="contacB"><a href="Contactanos.php">Contactanos</a></article>
     
-    <div id="slider_wrapper">
+     <div id="slider_wrapper">
         <div id="slider">
-        baner
+        <img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn2/969789_372663089509089_759361482_n.jpg">
         </div>
     </div>
         
