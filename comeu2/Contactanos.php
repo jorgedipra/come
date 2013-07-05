@@ -12,7 +12,9 @@
     
         <div id="site_title"><h1><a href="#"></a></h1></div>
         
-        <div id="twitter"><a href="#">Follow Us</a></div>
+        <div id="twitter">
+          <a href="javascript:var dir=window.document.URL;var tit=window.document.title;var tit2=encodeURIComponent(tit);window.location.href=('http://twitter.com/?status='+tit2+'%20'+dir+'');">Compartir en Twitter</a>
+        </div>
         
     </div> 
         
@@ -37,7 +39,28 @@
 <div id="templatemo_main">    
         <div class="col_w900">        
         <section id="conte">
-          contenido
+          <center>
+<h1 style="text-align: center;">
+  Quiere dar a conocer su empresa?</h1>
+<address style="text-align: center;">
+  Cont&aacute;ctenos 3134287036- PBX(571) 6824192</address>
+<p style="text-align: center;">
+ <!-- Do not change the code! --></p>
+<pre style="text-align: center;">
+CORREO ELECTRONICO: comercialcanalglowsky@gmail.com</pre>
+
+         <!-- Do not change the code! -->
+<a id="foxyform_embed_link_102965" href="http://es.foxyform.com/"></a>
+<script type="text/javascript">
+(function(d, t){
+   var g = d.createElement(t),
+       s = d.getElementsByTagName(t)[0];
+   g.src = "http://es.foxyform.com/js.php?id=102965&sec_hash=4822b98ab65&width=350px";
+   s.parentNode.insertBefore(g, s);
+}(document, "script"));
+</script>
+<!-- Do not change the code! -->
+</center>
         </section>
 </div>  
 <div class="col_w900 col_w900_last">
@@ -51,8 +74,8 @@
 </div>    
 </div> 
 <div id="templatemo_footer">    
-      Copyright © 2013 <a href="#">COMPAÑIA</a> - 
-        Designed by <a href="#" target="_parent">DIRECCION</a>
+      Copyright © 2013 <a href="#">glowsky</a> - 
+        Designed by <a href="https://www.facebook.com/MJPlayV" target="_parent">MJplayV</a>
 
 </div>
 </body>

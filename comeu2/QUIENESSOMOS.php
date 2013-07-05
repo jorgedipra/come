@@ -12,7 +12,9 @@
     
         <div id="site_title"><h1><a href="#"></a></h1></div>
         
-        <div id="twitter"><a href="#">Follow Us</a></div>
+            <div id="twitter">
+          <a href="javascript:var dir=window.document.URL;var tit=window.document.title;var tit2=encodeURIComponent(tit);window.location.href=('http://twitter.com/?status='+tit2+'%20'+dir+'');">Compartir en Twitter</a>
+        </div>
         
     </div> 
         
@@ -76,8 +78,8 @@
 </div>    
 </div> 
 <div id="templatemo_footer">    
-      Copyright © 2013 <a href="#">COMPAÑIA</a> - 
-        Designed by <a href="#" target="_parent">DIRECCION</a>
+      Copyright © 2013 <a href="#">glowsky</a> - 
+        Designed by <a href="https://www.facebook.com/MJPlayV" target="_parent">MJplayV</a>
 
 </div>
 </body>
