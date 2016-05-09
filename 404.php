@@ -10,7 +10,7 @@
 	body{
 		width: 100%;
 		height: 100%;
-		background: url('404.gif');
+		background: url('/404.gif');
 		background-repeat: no-repeat;
 		background-color:#fff;
 		background-position: center 0;
